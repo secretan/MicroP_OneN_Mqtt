@@ -1,5 +1,5 @@
 
-#Ԥ This is OneNet MQTT class
+#预 This is OneNet MQTT class
 
 from umqtt_simple import MQTTClient
 from machine import Timer
